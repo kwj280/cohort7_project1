@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "dice-roller-3d": "^1.0.4",
+    "express": "^4.17.1",
+    "phaser": "^3.55.2"
+  },
+  "typeRoots": [
+    "./node_modules/phaser/types"
+  ],
+  "types": [
+    "Phaser"
+  ],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "project1_phaser",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
